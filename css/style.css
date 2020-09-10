@@ -1,0 +1,14 @@
+#coolButton {
+    width: 100px;
+    height: 50px;
+    transition-duration: all 0.4s;
+    background-color: cyan;
+}
+
+#coolButton:hover {
+    background-color: aqua;
+}
+
+#coolButton:active {
+    background-color: blue;
+}
